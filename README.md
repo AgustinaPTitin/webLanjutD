@@ -44,5 +44,6 @@
     - Fiqh Rizki Saputra, 141111058, Fiqih24
     - Helmy Andrianto, 141111056, Helmyandria
     - Muhammad Syaifullah, 121110609, Musyai
+    - Agustina Prihatini Titin, 141111045, AgustinaPTitin
 * Kontribusi
 * Ajukan pull request
